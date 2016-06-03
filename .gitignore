@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+modules/blues/client/css/
+modules/blues/client/directives/
+modules/blues/client/filters/
+modules/blues/client/img/
